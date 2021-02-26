@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: This Is A Big Hero Headline
+    title: >-
+      I am a curious observer, obsessed with creation, teams' lubricant, and a
+      UI/UX designer!
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
