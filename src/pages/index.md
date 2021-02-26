@@ -79,7 +79,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: HUVLE WEB BROWSER
-        subtitle: lorem-ipsum
         content: |
           Mobile Web Application
         actions: []
