@@ -142,7 +142,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/KangyeonLee",
                 "style": "link",
                 "has_icon": true,
                 "icon": "github",
