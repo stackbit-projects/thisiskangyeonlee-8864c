@@ -22,7 +22,7 @@ sections:
       - type: form_field
         template: form_field
         input_type: text
-        label: Name
+        label: NAME
         default_value: Your name
         is_required: true
         name: NAME
