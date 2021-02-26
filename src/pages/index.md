@@ -16,6 +16,7 @@ sections:
         label: SAY HELLO
         url: /general-enquirise
         style: primary
+        icon_position: center
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
