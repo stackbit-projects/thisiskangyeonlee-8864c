@@ -62,7 +62,6 @@
     "footer": {
         "type": "footer",
         "template": "footer",
-        "logo_alt": "DIY logo",
         "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
