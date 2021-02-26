@@ -17,7 +17,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "PASSHIONS",
-                "url": "/features",
+                "url": "/",
                 "style": "link"
             },
             {
