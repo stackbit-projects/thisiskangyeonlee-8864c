@@ -1,0 +1,29 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the page
+  config:
+    required: true
+- type: field_group
+  name: seo
+  label: Seo
+  fields:
+  - type: include
+    name: include_stackbit_page_meta
+    label: Page meta data
+    template: stackbit_page_meta
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: page
+  config:
+    required: true
+pages:
+- src/pages/privacy-policy.md
+- src/pages/style-guide.md
+- src/pages/terms-conditions.md
