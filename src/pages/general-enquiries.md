@@ -8,6 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
+    content: "I'm looking for new opportunities! If you are interested in my works or blog posts, please contact me at\_[kangyeon.lee.alicia@gmail.com](mailto:example@example.com)\n"
   - type: form_section
     template: form_section
     content_align: left
