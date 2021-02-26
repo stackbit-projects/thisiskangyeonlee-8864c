@@ -27,10 +27,8 @@ sections:
       - type: feature
         template: feature
         title: HUVLE OFFICAIL SITE
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Web/Mobile Web Application
         actions:
           - type: action
             template: action
