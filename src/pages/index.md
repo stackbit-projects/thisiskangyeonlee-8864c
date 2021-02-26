@@ -73,7 +73,7 @@ sections:
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: center
         image: /images/thumbnail_04_adKnovaDashboard.png
         image_alt: Feature 3 placeholder image
         media_position: right
