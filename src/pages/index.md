@@ -75,7 +75,7 @@ sections:
             icon: arrow-right
             icon_position: center
         image: /images/thumbnail_04_adKnovaDashboard.png
-        image_alt: Feature 3 placeholder image
+        image_alt: 'adknowva '
         media_position: right
         media_width: fifty
       - title: lorem-ipsum
