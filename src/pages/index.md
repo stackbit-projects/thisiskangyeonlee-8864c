@@ -23,7 +23,6 @@ sections:
     background_color: primary
   - type: features_section
     template: features_section
-    subtitle: Features Section Example
     features:
       - type: feature
         template: feature
