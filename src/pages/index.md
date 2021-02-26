@@ -6,7 +6,7 @@ sections:
     title: >-
       I am a curious observer, obsessed with creation, teams' lubricant, and a
       UI/UX designer!
-    subtitle: Optional hero section subtitle
+    subtitle: 'Hello, This is Gangyeon Lee!'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
