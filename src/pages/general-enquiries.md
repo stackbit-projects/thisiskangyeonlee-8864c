@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     template: hero_section
     title: I hope we can keep in touch!
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: medium
