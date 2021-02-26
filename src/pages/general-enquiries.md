@@ -42,6 +42,7 @@ sections:
           - Sponsorship
           - Other
         label: SUBJECT
+        default_value: Your subject
       - type: form_field
         template: form_field
         input_type: textarea
