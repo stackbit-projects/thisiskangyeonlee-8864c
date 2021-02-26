@@ -63,7 +63,6 @@ sections:
       - type: feature
         template: feature
         title: adKnowva Dashboard
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
