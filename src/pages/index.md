@@ -45,10 +45,8 @@ sections:
       - type: feature
         template: feature
         title: adKnowva OFFICAL SITE
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Web/Mobile Web Application
         actions:
           - type: action
             template: action
