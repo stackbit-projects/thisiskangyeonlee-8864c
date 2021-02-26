@@ -57,7 +57,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-    submit_label: Send Message to K
+    submit_label: Send Message to Gangyeon!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
