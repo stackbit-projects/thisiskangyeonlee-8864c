@@ -14,7 +14,7 @@ sections:
       - type: action
         template: action
         label: SAY HELLO
-        url: /general-
+        url: /general-enquirise
         style: primary
     image_alt: Hero section placeholder image
     media_position: left
