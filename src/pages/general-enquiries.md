@@ -42,6 +42,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+        label: SUBJECT
       - type: form_field
         template: form_field
         input_type: textarea
