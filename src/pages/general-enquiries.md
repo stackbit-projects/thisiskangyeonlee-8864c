@@ -30,7 +30,7 @@ sections:
         template: form_field
         input_type: email
         name: email
-        label: Email
+        label: EMAIL
         default_value: Your email address
         is_required: true
       - type: form_field
