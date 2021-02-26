@@ -52,7 +52,7 @@ sections:
             template: action
             label: Learn More
             url: /style-guide
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-left
             icon_position: center
