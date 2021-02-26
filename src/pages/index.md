@@ -44,7 +44,7 @@ sections:
         media_width: fifty
       - type: feature
         template: feature
-        title: The Big Title For the Feature
+        title: adKnowva OFFICAL SITE
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
