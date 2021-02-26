@@ -40,7 +40,7 @@ sections:
             style: primary
             has_icon: true
             icon: arrow-right
-            icon_position: left
+            icon_position: center
         image: /images/thumbnail_02_huvleWeb.gif
         image_alt: Feature 1 placeholder image
         media_position: right
