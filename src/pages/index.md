@@ -90,6 +90,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: more
         image_alt: huvle browswer
         media_position: left
         media_width: fifty
