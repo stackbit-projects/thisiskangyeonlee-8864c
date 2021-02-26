@@ -78,7 +78,7 @@ sections:
         image_alt: adknowva thumb
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
+      - title: HUVLE WEB BROWSER
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
