@@ -62,7 +62,7 @@ sections:
         media_width: fifty
       - type: feature
         template: feature
-        title: The Big Title For the Feature
+        title: adKnowva Dashboard
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
