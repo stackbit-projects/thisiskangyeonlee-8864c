@@ -13,7 +13,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Try Free
+        label: SAY HELLO
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
