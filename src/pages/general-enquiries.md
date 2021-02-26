@@ -12,7 +12,7 @@ sections:
   - type: form_section
     template: form_section
     content_align: left
-    form_position: right
+    form_position: top
     form_width: fifty
     form_layout: inline
     enable_card: true
