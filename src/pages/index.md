@@ -100,6 +100,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/thumbnail_09_huvleBrowser.png
     feature_padding_vert: large
     align: center
     background_color: secondary
