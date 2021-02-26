@@ -91,15 +91,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         image_alt: huvle browswer
         media_position: left
         media_width: fifty
