@@ -26,7 +26,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: The Big Title For the Feature
+        title: HUVLE OFFICAIL SITE
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
