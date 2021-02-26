@@ -86,7 +86,7 @@ sections:
             url: '#'
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: arrow-left
             icon_position: center
             new_window: false
             no_follow: false
