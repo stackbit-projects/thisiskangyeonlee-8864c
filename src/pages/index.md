@@ -27,7 +27,7 @@ sections:
       - type: feature
         template: feature
         title: HUVLE OFFICAIL SITE
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Web/Mobile Web Application
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
