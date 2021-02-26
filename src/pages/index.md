@@ -54,7 +54,7 @@ sections:
             url: /style-guide
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: arrow-left
             icon_position: right
         image: /images/thumbnail_04_adKnovaWeb.png
         image_alt: Feature 2 placeholder image
