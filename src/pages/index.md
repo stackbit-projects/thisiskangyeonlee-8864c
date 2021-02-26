@@ -85,7 +85,7 @@ sections:
           - label: lorem-ipsum
             url: '#'
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: center
             new_window: false
