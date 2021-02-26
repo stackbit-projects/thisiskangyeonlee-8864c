@@ -80,17 +80,8 @@ sections:
         media_width: fifty
       - title: HUVLE WEB BROWSER
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Mobile Web Application
         actions: []
         image_alt: huvle browswer
         media_position: left
