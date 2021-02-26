@@ -82,8 +82,7 @@ sections:
         content: |
           Mobile Web Application
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: secondary
             has_icon: true
             icon: arrow-left
