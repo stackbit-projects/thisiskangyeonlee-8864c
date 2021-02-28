@@ -100,24 +100,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    template: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - type: action
-        template: action
-        label: Button
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
