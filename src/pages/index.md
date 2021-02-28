@@ -100,48 +100,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-  - type: grid_section
-    template: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - type: action
-        template: action
-        label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - type: grid_item
-        template: grid_item
-        title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - type: grid_item
-        template: grid_item
-        title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - type: grid_item
-        template: grid_item
-        title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - type: grid_item
-        template: grid_item
-        title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: blog_feed_section
     template: blog_feed_section
     title: What's New
