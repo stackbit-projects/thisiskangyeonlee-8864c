@@ -119,6 +119,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/thumbnail_01_webNovelApp.png
     feature_padding_vert: large
     align: center
     background_color: none
