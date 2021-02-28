@@ -99,7 +99,7 @@ sections:
         image: /images/thumbnail_09_huvleBrowser.png
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
