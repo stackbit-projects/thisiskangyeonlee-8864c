@@ -111,7 +111,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: more
             url: '#'
             style: secondary
             has_icon: true
