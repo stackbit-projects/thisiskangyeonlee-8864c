@@ -111,7 +111,7 @@ sections:
 
           - dolor sit amet
         actions: []
-        image_alt: 'kyobo '
+        image_alt: kyobo app
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
