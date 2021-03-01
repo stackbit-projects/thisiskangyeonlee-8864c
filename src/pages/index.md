@@ -140,7 +140,7 @@ sections:
         type: feature
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: secondary
     padding_top: large
     padding_bottom: large
     has_border: false
