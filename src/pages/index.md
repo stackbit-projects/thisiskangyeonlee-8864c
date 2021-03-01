@@ -98,7 +98,6 @@ sections:
         type: feature
         image: /images/thumbnail_09_huvleBrowser.png
       - title: WEB NOVLE APP
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
