@@ -145,7 +145,6 @@ sections:
     padding_bottom: large
     has_border: false
     background_image_size: auto
-    title: title
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
