@@ -143,6 +143,7 @@ sections:
     background_color: none
     padding_top: large
     padding_bottom: large
+    has_border: true
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
