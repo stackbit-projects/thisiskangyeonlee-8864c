@@ -139,7 +139,7 @@ sections:
         align: left
         type: feature
     feature_padding_vert: large
-    align: center
+    align: right
     background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
