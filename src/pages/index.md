@@ -74,7 +74,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: center
-        image: /images/sample.png
+        image: /images/thumbnail_04_adKnovaDashboard.png
         image_alt: adknowva thumb
         media_position: right
         media_width: fifty
