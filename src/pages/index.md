@@ -98,17 +98,8 @@ sections:
         type: feature
         image: /images/thumbnail_09_huvleBrowser.png
       - title: WEB NOVLE APP
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          App
         actions:
           - label: more
             url: '#'
