@@ -9,7 +9,7 @@
         "type": "header",
         "template": "header",
         "title": "Gangyeon",
-        "logo_alt": "DIY logo",
+        "logo_alt": "logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
